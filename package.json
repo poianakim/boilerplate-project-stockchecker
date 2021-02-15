@@ -4,9 +4,8 @@
 	"description": "",
 	"main": "InfoSec project for freeCodeCamp",
 	"scripts": {
-		"start": "node server.js",
-		"test": "mocha -u tdd"
-	},
+		"start": "node server.js"
+		},
 	"engines": {
 		"node": "v12.18.2"
 	},
