@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  margin-left: 40px;
+}
+.slidingDiv {
+  margin-bottom: 30px;
+  position: absolute;
+  background-color: rgb(42, 160, 42);
+}
+.slidingDiv ul {
+  list-style: upper-roman;
+  padding: 20px;
+}
+.slidingDiv code {
+  background-color: white;
+}
+.show_hide {
+  display: none;
+}
+
+input,
+button {
+  margin: 5px;
+}
