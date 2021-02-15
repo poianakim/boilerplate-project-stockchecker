@@ -3,6 +3,7 @@ h1 {
 }
 h3 {
   margin-left: 40px;
+  margin-top: 30px;
 }
 .slidingDiv {
   margin-bottom: 30px;
@@ -16,8 +17,16 @@ h3 {
 .slidingDiv code {
   background-color: white;
 }
+.show_hide h3 {
+  width: 300px;
+}
 .show_hide {
   display: none;
+}
+
+form {
+  max-width: 400px;
+  padding: 10px;
 }
 
 input,
